@@ -1,0 +1,101 @@
+,country,variant,date_2weeks,Count
+0,Algeria,Alpha,2021-02-28,1
+1,Algeria,Alpha,2021-04-15,1
+2,Algeria,Alpha,2021-04-30,4
+3,Algeria,Alpha,2021-05-15,7
+4,Algeria,Alpha,2021-05-31,4
+5,Algeria,Alpha,2021-06-15,8
+6,Algeria,Alpha,2021-06-30,1
+7,Algeria,Alpha,2021-07-15,5
+8,Algeria,Alpha,2021-07-31,3
+9,Algeria,Alpha,2021-08-15,1
+10,Algeria,Delta,2021-05-15,3
+11,Algeria,Delta,2021-06-15,3
+12,Algeria,Delta,2021-06-30,9
+13,Algeria,Delta,2021-07-15,7
+14,Algeria,Delta,2021-07-31,9
+15,Algeria,Delta,2021-08-15,5
+16,Algeria,Delta,2021-09-15,12
+17,Algeria,Delta,2021-09-30,3
+18,Algeria,Delta,2021-11-30,3
+19,Algeria,Delta,2021-12-15,3
+20,Algeria,Delta,2021-12-15,11
+21,Algeria,Delta,2022-01-15,6
+22,Algeria,Delta,2022-01-31,3
+23,Algeria,Delta,2022-02-15,2
+24,Algeria,Delta,2022-02-28,1
+25,Algeria,Delta,2022-03-15,1
+26,Algeria,Omicron (BA.1),2021-12-15,3
+27,Algeria,Omicron (BA.1),2021-12-31,5
+28,Algeria,Omicron (BA.1),2022-01-15,6
+29,Algeria,Omicron (BA.1),2022-01-31,5
+30,Algeria,Omicron (BA.1),2022-02-15,6
+31,Algeria,Omicron (BA.1),2022-02-28,9
+32,Algeria,Omicron (BA.1),2022-03-15,2
+33,Algeria,Omicron (BA.1),2022-04-30,2
+34,Algeria,Omicron (BA.1),2022-06-15,1
+35,Algeria,Omicron (BA.1),2022-06-30,2
+36,Algeria,Omicron (BA.1),2022-07-31,3
+37,Algeria,Omicron (BA.2),2022-02-28,19
+38,Algeria,Omicron (BA.2),2022-03-15,13
+39,Algeria,Omicron (BA.2),2022-03-31,7
+40,Algeria,Omicron (BA.2),2022-04-15,1
+41,Algeria,Omicron (BA.2),2022-04-30,2
+42,Algeria,Omicron (BA.2),2022-05-15,1
+43,Algeria,Omicron (BA.2),2022-05-31,4
+44,Algeria,Omicron (BA.2),2022-06-15,2
+45,Algeria,Omicron (BA.2),2022-06-30,2
+46,Algeria,Omicron (BA.2),2022-07-15,2
+47,Algeria,Omicron (BA.2),2022-07-31,1
+48,Algeria,Omicron (BA.5),2022-06-15,4
+49,Algeria,Omicron (BA.5),2022-06-30,4
+50,Algeria,Omicron (BA.5),2022-07-15,7
+51,Algeria,Omicron (BA.5),2022-07-31,25
+52,Algeria,Omicron (BA.5),2022-08-15,17
+53,Algeria,Other Lineages,2020-03-15,3
+54,Algeria,Other Lineages,2022-06-30,1
+55,Algeria,Other Lineages,2020-05-31,2
+56,Algeria,Other Lineages,2020-06-15,2
+57,Algeria,Other Lineages,2020-06-30,12
+58,Algeria,Other Lineages,2020-07-31,1
+59,Algeria,Other Lineages,2020-09-30,4
+60,Algeria,Other Lineages,2020-10-15,2
+61,Algeria,Other Lineages,2020-11-15,1
+62,Algeria,Other Lineages,2020-11-30,4
+63,Algeria,Other Lineages,2020-12-15,2
+64,Algeria,Other Lineages,2020-12-31,5
+65,Algeria,Other Lineages,2021-01-15,2
+66,Algeria,Other Lineages,2021-01-31,3
+67,Algeria,Other Lineages,2021-02-15,4
+68,Algeria,Other Lineages,2021-02-28,3
+69,Algeria,Other Lineages,2021-03-15,7
+70,Algeria,Other Lineages,2021-03-31,3
+71,Algeria,Other Lineages,2021-04-15,2
+72,Algeria,Other Lineages,2021-04-30,3
+73,Algeria,Other Lineages,2021-05-15,3
+74,Algeria,Other Lineages,2021-05-31,3
+75,Algeria,Other Lineages,2021-06-15,3
+76,Algeria,Other Lineages,2021-07-15,3
+77,Algeria,Other Lineages,2021-09-15,1
+78,Algeria,Other Lineages,2021-12-15,1
+79,Algeria,Other Lineages,2022-02-28,1
+80,Angola,Alpha,2021-01-31,6
+81,Angola,Alpha,2021-02-15,2
+82,Angola,Alpha,2021-02-28,3
+83,Angola,Alpha,2021-03-15,10
+84,Angola,Alpha,2021-03-31,14
+85,Angola,Alpha,2021-04-15,30
+86,Angola,Alpha,2021-04-30,20
+87,Angola,Alpha,2021-05-15,6
+88,Angola,Alpha,2021-05-31,7
+89,Angola,Alpha,2021-06-15,18
+90,Angola,Alpha,2021-06-30,31
+91,Angola,Alpha,2021-07-15,7
+92,Angola,Alpha,2021-07-31,2
+93,Angola,Beta,2020-09-30,8
+94,Angola,Beta,2020-10-15,22
+95,Angola,Beta,2020-12-15,55
+96,Angola,Beta,2021-01-15,1
+97,Angola,Beta,2021-01-31,5
+98,Angola,Beta,2021-02-15,14
+99,Angola,Beta,2021-02-28,24
